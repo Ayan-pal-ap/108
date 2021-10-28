@@ -1,0 +1,33 @@
+body{
+    font-family: 'Faustina', serif;
+}
+.header_div{
+    background:orchid;
+    color: bisque;
+
+}
+.header_div p{
+    font-family: 'Roboto Mono', monospace;
+        color: blue;
+        letter-spacing: 2px;
+        font-size: 12px;
+        font-weight: bolder;
+}
+.main_div button{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom:20 ;
+  width: 100%;
+  font-size: 18px;
+  line-height: 3px;
+  text-align: center;
+  text-shadow:5px 5px 5px black;
+
+}
